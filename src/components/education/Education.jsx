@@ -1,4 +1,4 @@
-import "./education.scss";
+import "./Education.scss";
 import { motion } from "framer-motion";
 
 const textVariants = {
